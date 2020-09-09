@@ -60,7 +60,7 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: eb0cca6fede6adf42d14                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientSecret: 0eb9db5093a0325cf6c92d99a7ae35c9c8a66e99    #生成的clientSecret
   repo: ashen-you.github.io    #仓库名称
   owner: ashen-you    #github用户名
   admin: ashen-you
