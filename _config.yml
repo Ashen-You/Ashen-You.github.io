@@ -11,7 +11,7 @@ github_repo: "https://github.com/ashen-you/ashen-you.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "世界上唯有自己才是唯一可靠的"
+sidebar-about-description: "Try my best to find the answer"
 sidebar-avatar: /img/Ashen.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
